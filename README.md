@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="bloom-header-night.svg" />
-    <img src="bloom-header.svg" width="900" alt="ButterIcefly — blooming banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="buttericefly-header-night.svg" />
+    <img src="buttericefly-header.svg" width="900" alt="ButterIcefly — blooming banner" />
   </picture>
 </div>
 
@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img height="170em" alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=ButterIcefly&hide_border=true&background=00000000&ring=F4795B&fire=F4795B&currStreakLabel=F4795B&sideLabels=555555&dates=AAAAAA&currStreakNum=333333&sideNums=333333" />
+    <img height="170em" alt="GitHub streak stats" src="profile/streak.svg" />
   </a>
 </div>
 
