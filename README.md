@@ -3,8 +3,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="bloom-header-night.svg" />
     <img src="bloom-header.svg" width="900" alt="ButterIcefly — blooming banner" />
   </picture>
-
-  <p><i>Word to world 🍸 Rise to surprise</i></p>
 </div>
 
 <div align="center">
@@ -43,7 +41,9 @@
 <br/>
 
 <div align="center">
-  <img height="170em" alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=ButterIcefly&hide_border=true&background=00000000&ring=F4795B&fire=F4795B&currStreakLabel=F4795B&sideLabels=555555&dates=AAAAAA&currStreakNum=333333&sideNums=333333" />
+  <a href="https://git.io/streak-stats">
+    <img height="170em" alt="GitHub streak stats" src="https://streak-stats.demolab.com?user=ButterIcefly&hide_border=true&background=00000000&ring=F4795B&fire=F4795B&currStreakLabel=F4795B&sideLabels=555555&dates=AAAAAA&currStreakNum=333333&sideNums=333333" />
+  </a>
 </div>
 
 <br/>

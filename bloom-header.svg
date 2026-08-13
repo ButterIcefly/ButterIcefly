@@ -417,6 +417,6 @@
     <animate attributeName="opacity" from="0" to="1" begin="1.7s" dur="0.9s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 16" to="0 0" begin="1.7s" dur="0.9s" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1" fill="freeze"/>
     <text x="450" y="150" text-anchor="middle" font-size="46" font-weight="700" letter-spacing="2" fill="#F4795B">ButterIcefly</text>
-    <text x="450" y="186" text-anchor="middle" font-size="16" letter-spacing="1" fill="#8b949e">Always learning, always blooming</text>
+    <text x="450" y="186" text-anchor="middle" font-size="16" letter-spacing="1" fill="#8b949e">Word to world 🍸 Rise to surprise</text>
   </g>
 </svg>
