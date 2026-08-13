@@ -38,3 +38,14 @@ jobs:
           season: ${{ inputs.season }}
           force: ${{ inputs.force }}
           commit-message: "🌦 scene sync: {state}"
+
+      - name: Remove scene status label
+        shell: bash
+        run: |
+          sed -i -E 's#<text x="893" y="64"[^>]*>LIVE SKY · [^<]*</text>##g' sky.svg sky-night.svg
+          git diff --quiet -- sky.svg sky-night.svg && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sky.svg sky-night.svg
+          git commit -m "Remove scene status label"
+          git push
