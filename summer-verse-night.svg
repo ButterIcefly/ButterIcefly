@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="126" viewBox="0 0 900 126" role="img" aria-labelledby="title desc">
+  <title id="title">Summer verse</title>
+  <desc id="desc">Shall I compare thee to a summer's day? Thou art more lovely and more temperate.</desc>
+
+  <g fill="none" stroke="#FF9075" stroke-linecap="round">
+    <path d="M258 23 H424" stroke-width="1" opacity="0.28"/>
+    <path d="M476 23 H642" stroke-width="1" opacity="0.28"/>
+    <circle cx="450" cy="23" r="4" fill="#FF9075" stroke="none" opacity="0.78"/>
+    <path d="M450 13 V17 M450 29 V33 M440 23 H444 M456 23 H460" stroke-width="1.2" opacity="0.62"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic">
+    <text x="450" y="68" font-size="22" letter-spacing="0.35" fill="#D6DCE5">Shall I compare thee to a summer's day?</text>
+    <text x="450" y="101" font-size="20" letter-spacing="0.3" fill="#AEB8C6">Thou art more lovely and more temperate.</text>
+  </g>
+</svg>

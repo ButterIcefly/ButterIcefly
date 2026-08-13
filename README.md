@@ -13,6 +13,13 @@
 </div>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="summer-verse-night.svg" />
+    <img src="summer-verse.svg" width="900" alt="Shall I compare thee to a summer's day? Thou art more lovely and more temperate." />
+  </picture>
+</div>
+
+<div align="center">
 
 <img src="chips/label-0.svg" alt="LLMS" /> <img src="chips/claude.svg" alt="Claude" /> <img src="chips/googlegemini.svg" alt="Gemini" /> <img src="chips/deepseek.svg" alt="DeepSeek" /> <img src="chips/qwen.svg" alt="Qwen" /> <img src="chips/meta.svg" alt="Llama" /> <img src="chips/mistralai.svg" alt="Mistral" />
 <br/>
